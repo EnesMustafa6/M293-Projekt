@@ -327,7 +327,6 @@ button:hover {
   }
 }
 
-/* Extra adjustments for small screens */
 @media (max-width: 600px) {
   .profilbild {
     max-width: 160px;
